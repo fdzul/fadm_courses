@@ -4,8 +4,8 @@ image: "https://github.com/fdzul/fadm/blob/main/fadm.jpg?raw=true"
 links:
   - label: Atras
     url: "https://sparkly-kleicha-e38ffa.netlify.app/"
-  - label: Paquetes en R
-    url: "https://symphonious-gingersnap-0f90aa.netlify.app"
+  - label: Cursos
+    url: "https://spontaneous-cendol-bba39f.netlify.app"
 output:
   postcards::trestles
 ---
@@ -17,10 +17,28 @@ output:
 
 1. [Focos de la Transmisión Activa del Dengue en Guanajuato en R](https://fdzul.github.io/active_transmission_dengue_2025_guanajuato/temario.html)
 
+   sede: León, Guanajuato, México.
+   
+   fecha: 22-24 Abril 2025
+
 2. [Identificación de los Focos de Transmisión Persistente & Activa de las Arbovirosis en R](https://fdzul.github.io/epidemiological_scenarios_dengue_R_2025/)
+
+   sede: Ciudad de Oaxaca de Juárez,Oaxaca, México.
+   
+   fecha: 23 Febrero al 1 Marzo de 2025
 
 3. [Focos de Transmisión Activa de las Arbovirosis con R](https://sites.google.com/view/foroestadisticauv/página-principal)
 
+   sede: Xalapa, Veracruz, México.
+   
+   fecha: 19-20 Mayo del 2025.
+
 
 4. [Vigilancia Entomológica del Oropouche en México](https://fdzul.github.io/entomological_surveillance_oropouche_mexico/)
+
+   sede: Cuernavaca, Morelos, México.
+   
+   fecha: 4-9 Mayo del 2025.
+
+
 </span>.
