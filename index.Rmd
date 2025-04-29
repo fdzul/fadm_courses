@@ -1,0 +1,26 @@
+---
+title:  <span style="color:#003300;">Felipe Antonio Dzul Manzanilla</span>
+image: "https://github.com/fdzul/fadm/blob/main/fadm.jpg?raw=true"
+links:
+  - label: Atras
+    url: "https://sparkly-kleicha-e38ffa.netlify.app/"
+  - label: Paquetes en R
+    url: "https://symphonious-gingersnap-0f90aa.netlify.app"
+output:
+  postcards::trestles
+---
+ 
+
+##  **<span style="color:#003300;">Cursos 2025</span>**
+
+<span style="color:#660033;">
+
+1. [Focos de la Transmisión Activa del Dengue en Guanajuato en R](https://fdzul.github.io/active_transmission_dengue_2025_guanajuato/temario.html)
+
+2. [Identificación de los Focos de Transmisión Persistente & Activa de las Arbovirosis en R](https://fdzul.github.io/epidemiological_scenarios_dengue_R_2025/)
+
+3. [Focos de Transmisión Activa de las Arbovirosis con R](https://sites.google.com/view/foroestadisticauv/página-principal)
+
+
+4. [Vigilancia Entomológica del Oropouche en México](https://fdzul.github.io/entomological_surveillance_oropouche_mexico/)
+</span>.
